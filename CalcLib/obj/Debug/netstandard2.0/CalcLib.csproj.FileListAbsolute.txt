@@ -7,3 +7,13 @@
 /Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/bin/Debug/netstandard2.0/CalcLib.pdb
 /Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/Debug/netstandard2.0/CalcLib.dll
 /Users/anguyen/Projects/CSharp/CIV_UnitTesting_Exercises/CalcLib/obj/Debug/netstandard2.0/CalcLib.pdb
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\bin\Debug\netstandard2.0\CalcLib.deps.json
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\bin\Debug\netstandard2.0\CalcLib.dll
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\bin\Debug\netstandard2.0\CalcLib.pdb
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\obj\Debug\netstandard2.0\CalcLib.AssemblyInfoInputs.cache
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\obj\Debug\netstandard2.0\CalcLib.AssemblyInfo.cs
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\obj\Debug\netstandard2.0\CalcLib.csproj.CoreCompileInputs.cache
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\obj\Debug\netstandard2.0\CalcLib.dll
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\obj\Debug\netstandard2.0\CalcLib.pdb
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\obj\Debug\netstandard2.0\CalcLib.csproj.AssemblyReference.cache
+C:\Users\matth\Class_work\Intro_programming\CIV_UnitTesting_XUnit\CalcLib\obj\Debug\netstandard2.0\CalcLib.GeneratedMSBuildEditorConfig.editorconfig
